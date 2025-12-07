@@ -1,8 +1,4 @@
-▗▄▄▄▖▗▖    ▗▄▖ ▗▖ ▗▖▗▖   ▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖▗▄▄▄▖
-▐▌   ▐▌   ▐▌ ▐▌▐▌ ▐▌▐▌     █  ▐▛▚▞▜▌  █    █  
-▐▛▀▀▘▐▌   ▐▌ ▐▌▐▌ ▐▌▐▌     █  ▐▌  ▐▌  █    █  
-▐▌   ▐▙▄▄▖▝▚▄▞▘▐▙█▟▌▐▙▄▄▖▗▄█▄▖▐▌  ▐▌▗▄█▄▖  █                                            
-                                                                     
+                                                                    
 High-performance, extensible, and framework-agnostic **rate limiting library for Go**.  
 Supports multiple algorithms, clean middleware adapters, in-memory storage, and a modern, testable architecture.
 
